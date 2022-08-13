@@ -1,0 +1,2 @@
+const difference = 45 - 33;
+// so the const now is 12  
